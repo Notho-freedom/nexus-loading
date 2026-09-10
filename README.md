@@ -1,32 +1,18 @@
-# Nexus Loading
+# nexus-loading
 
-Modern loading screen components and animations for web applications with futuristic design.
+Project description and documentation.
 
 ## 🚀 Features
 
-- ✨ **Animated loaders** - CSS and SVG-based loading animations
-- 🎨 **Customizable themes** - Easily themeable components
-- 📱 **Responsive** - Works on all screen sizes
-- ⚡ **Lightweight** - Zero dependencies, pure CSS/TS
-- 🔧 **Easy integration** - Drop-in components for any React app
+- Modern tech stack
+- Responsive design
+- Production ready
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: TypeScript, Vite, React
-- **Styling**: Tailwind CSS, CSS animations
-- **Deployment**: Vercel
-
-## 📁 Project Structure
-
-`
-nexus-loading/
-├── src/
-│   ├── components/     # Loading components
-│   ├── pages/          # Demo pages
-│   └── lib/            # Animation utilities
-├── public/
-└── package.json
-`
+- TypeScript, Vite, React
+- Tailwind CSS
+- Supabase
 
 ## 🚀 Installation
 
@@ -46,7 +32,7 @@ npm run preview
 
 ## 📊 Status
 
-Active development. Core loading components implemented.
+Active development.
 
 ## 👤 Author
 
