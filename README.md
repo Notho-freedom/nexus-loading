@@ -1,30 +1,57 @@
-# Untitled Chat
+# Nexus Loading
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+Modern loading screen components and animations for web applications with futuristic design.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/ravels-projects-13eaae80/v0-untitled-chat)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/uvmynD6DZTK)
+## 🚀 Features
 
-## Overview
+- ✨ **Animated loaders** - CSS and SVG-based loading animations
+- 🎨 **Customizable themes** - Easily themeable components
+- 📱 **Responsive** - Works on all screen sizes
+- ⚡ **Lightweight** - Zero dependencies, pure CSS/TS
+- 🔧 **Easy integration** - Drop-in components for any React app
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+## 🛠️ Tech Stack
 
-## Deployment
+- **Frontend**: TypeScript, Vite, React
+- **Styling**: Tailwind CSS, CSS animations
+- **Deployment**: Vercel
 
-Your project is live at:
+## 📁 Project Structure
 
-**[https://vercel.com/ravels-projects-13eaae80/v0-untitled-chat](https://vercel.com/ravels-projects-13eaae80/v0-untitled-chat)**
+`
+nexus-loading/
+├── src/
+│   ├── components/     # Loading components
+│   ├── pages/          # Demo pages
+│   └── lib/            # Animation utilities
+├── public/
+└── package.json
+`
 
-## Build your app
+## 🚀 Installation
 
-Continue building your app on:
+`ash
+git clone https://github.com/Notho-freedom/nexus-loading.git
+cd nexus-loading
+npm install
+`
 
-**[https://v0.app/chat/uvmynD6DZTK](https://v0.app/chat/uvmynD6DZTK)**
+## 🏃 Running
 
-## How It Works
+`ash
+npm run dev
+npm run build
+npm run preview
+`
 
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+## 📊 Status
+
+Active development. Core loading components implemented.
+
+## 👤 Author
+
+[Notho-freedom](https://github.com/Notho-freedom)
+
+## 📄 License
+
+MIT
